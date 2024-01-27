@@ -1,0 +1,1130 @@
+[
+    {
+        "id": 1,
+        "name": "New York",
+        "country": "USA",
+        "population": 8399000,
+        "noisy_pollution_level": "High",
+        "neighbourhood_cities": [
+            "Newark",
+            "Jersey City",
+            "Hoboken"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Los Angeles",
+        "country": "USA",
+        "population": 3990000,
+        "noisy_pollution_level": "Moderate",
+        "neighbourhood_cities": [
+            "Long Beach",
+            "Anaheim",
+            "Santa Ana"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Tokyo",
+        "country": "Japan",
+        "population": 9273000,
+        "noisy_pollution_level": "High",
+        "neighbourhood_cities": [
+            "Yokohama",
+            "Chiba",
+            "Saitama"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Beijing",
+        "country": "China",
+        "population": 21540000,
+        "noisy_pollution_level": "Very High",
+        "neighbourhood_cities": [
+            "Tianjin",
+            "Shijiazhuang",
+            "Baoding"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "London",
+        "country": "UK",
+        "population": 8908081,
+        "noisy_pollution_level": "Low",
+        "neighbourhood_cities": [
+            "Manchester",
+            "Birmingham",
+            "Leeds"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Paris",
+        "country": "France",
+        "population": 2148000,
+        "noisy_pollution_level": "Moderate",
+        "neighbourhood_cities": [
+            "Versailles",
+            "Saint-Denis",
+            "Boulogne-Billancourt"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Moscow",
+        "country": "Russia",
+        "population": 11920000,
+        "noisy_pollution_level": "High",
+        "neighbourhood_cities": [
+            "Saint Petersburg",
+            "Novosibirsk",
+            "Yekaterinburg"
+        ]
+    },
+    {
+        "id": 8,
+        "name": "São Paulo",
+        "country": "Brazil",
+        "population": 12180000,
+        "noisy_pollution_level": "Very High",
+        "neighbourhood_cities": [
+            "Rio de Janeiro",
+            "Campinas",
+            "Santos"
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Delhi",
+        "country": "India",
+        "population": 29700000,
+        "noisy_pollution_level": "Very High",
+        "neighbourhood_cities": [
+            "Ghaziabad",
+            "Noida",
+            "Gurgaon"
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Mumbai",
+        "country": "India",
+        "population": 20400000,
+        "noisy_pollution_level": "High",
+        "neighbourhood_cities": [
+            "Thane",
+            "Navi Mumbai",
+            "Pune"
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Shanghai",
+        "country": "China",
+        "population": 24150000,
+        "noisy_pollution_level": "High",
+        "neighbourhood_cities": [
+            "Hangzhou",
+            "Suzhou",
+            "Nanjing"
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Seoul",
+        "country": "South Korea",
+        "population": 9765000,
+        "noisy_pollution_level": "Moderate",
+        "neighbourhood_cities": [
+            "Incheon",
+            "Suwon",
+            "Goyang"
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Mexico City",
+        "country": "Mexico",
+        "population": 8918653,
+        "noisy_pollution_level": "Very High",
+        "neighbourhood_cities": [
+            "Puebla",
+            "Toluca",
+            "Cuernavaca"
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Bangkok",
+        "country": "Thailand",
+        "population": 8281000,
+        "noisy_pollution_level": "High",
+        "neighbourhood_cities": [
+            "Nonthaburi",
+            "Samut Prakan",
+            "Pathum Thani"
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Cairo",
+        "country": "Egypt",
+        "population": 20000000,
+        "noisy_pollution_level": "Moderate",
+        "neighbourhood_cities": [
+            "Giza",
+            "Shubra El-Kheima",
+            "6th of October City"
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Istanbul",
+        "country": "Turkey",
+        "population": 15154000,
+        "noisy_pollution_level": "Moderate",
+        "neighbourhood_cities": [
+            "Ankara",
+            "Izmir",
+            "Bursa"
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Lagos",
+        "country": "Nigeria",
+        "population": 21000000,
+        "noisy_pollution_level": "High",
+        "neighbourhood_cities": [
+            "Ibadan",
+            "Kano",
+            "Abuja"
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Karachi",
+        "country": "Pakistan",
+        "population": 14910000,
+        "noisy_pollution_level": "High",
+        "neighbourhood_cities": [
+            "Lahore",
+            "Faisalabad",
+            "Rawalpindi"
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Rio de Janeiro",
+        "country": "Brazil",
+        "population": 6453682,
+        "noisy_pollution_level": "High",
+        "neighbourhood_cities": [
+            "São Gonçalo",
+            "Duque de Caxias",
+            "Nova Iguaçu"
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Manila",
+        "country": "Philippines",
+        "population": 1780148,
+        "noisy_pollution_level": "Moderate",
+        "neighbourhood_cities": [
+            "Quezon City",
+            "Caloocan",
+            "Davao City"
+        ]
+    },
+    {
+        "id": 21,
+        "name": "Lima",
+        "country": "Peru",
+        "population": 9120785,
+        "noisy_pollution_level": "Moderate",
+        "neighbourhood_cities": [
+            "Callao",
+            "Trujillo",
+            "Chiclayo"
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Bogotá",
+        "country": "Colombia",
+        "population": 7225000,
+        "noisy_pollution_level": "Moderate",
+        "neighbourhood_cities": [
+            "Medellín",
+            "Cali",
+            "Barranquilla"
+        ]
+    },
+    {
+        "id": 23,
+        "name": "Kinshasa",
+        "country": "Democratic Republic of the Congo",
+        "population": 14900000,
+        "noisy_pollution_level": "Moderate",
+        "neighbourhood_cities": [
+            "Brazzaville",
+            "Matadi",
+            "Mbuji-Mayi"
+        ]
+    },
+    {
+        "id": 24,
+        "name": "Jakarta",
+        "country": "Indonesia",
+        "population": 10187595,
+        "noisy_pollution_level": "High",
+        "neighbourhood_cities": [
+            "Bekasi",
+            "Depok",
+            "Tangerang"
+        ]
+    },
+    {
+        "id": 25,
+        "name": "Tehran",
+        "country": "Iran",
+        "population": 8750000,
+        "noisy_pollution_level": "High",
+        "neighbourhood_cities": [
+            "Mashhad",
+            "Isfahan",
+            "Karaj"
+        ]
+    },
+    {
+        "id": 26,
+        "name": "Baghdad",
+        "country": "Iraq",
+        "population": 8837000,
+        "noisy_pollution_level": "High",
+        "neighbourhood_cities": [
+            "Basra",
+            "Mosul",
+            "Erbil"
+        ]
+    },
+    {
+        "id": 27,
+        "name": "Ho Chi Minh City",
+        "country": "Vietnam",
+        "population": 8614000,
+        "noisy_pollution_level": "High",
+        "neighbourhood_cities": [
+            "Hanoi",
+            "Da Nang",
+            "Haiphong"
+        ]
+    },
+    {
+        "id": 28,
+        "name": "Bangalore",
+        "country": "India",
+        "population": 12300000,
+        "noisy_pollution_level": "Moderate",
+        "neighbourhood_cities": [
+            "Mysore",
+            "Chennai",
+            "Hyderabad"
+        ]
+    },
+    {
+        "id": 29,
+        "name": "Cairo",
+        "country": "Egypt",
+        "population": 20000000,
+        "noisy_pollution_level": "Moderate",
+        "neighbourhood_cities": [
+            "Giza",
+            "Shubra El-Kheima",
+            "6th of October City"
+        ]
+    },
+    {
+        "id": 30,
+        "name": "Chennai",
+        "country": "India",
+        "population": 11324000,
+        "noisy_pollution_level": "High",
+        "neighbourhood_cities": [
+            "Tiruchirappalli",
+            "Madurai",
+            "Coimbatore"
+        ]
+    },
+    {
+        "id": 31,
+        "name": "Chicago",
+        "country": "USA",
+        "population": 2716000,
+        "noisy_pollution_level": "Moderate",
+        "neighbourhood_cities": [
+            "Naperville",
+            "Aurora",
+            "Joliet"
+        ]
+    },
+    {
+        "id": 32,
+        "name": "Sydney",
+        "country": "Australia",
+        "population": 4627000,
+        "noisy_pollution_level": "Low",
+        "neighbourhood_cities": [
+            "Melbourne",
+            "Brisbane",
+            "Perth"
+        ]
+    },
+    {
+        "id": 33,
+        "name": "Singapore",
+        "country": "Singapore",
+        "population": 5703600,
+        "noisy_pollution_level": "Low",
+        "neighbourhood_cities": [
+            "Johor Bahru",
+            "Batam",
+            "Bintan"
+        ]
+    },
+    {
+        "id": 34,
+        "name": "Toronto",
+        "country": "Canada",
+        "population": 2731571,
+        "noisy_pollution_level": "Moderate",
+        "neighbourhood_cities": [
+            "Mississauga",
+            "Brampton",
+            "Hamilton"
+        ]
+    },
+    {
+        "id": 35,
+        "name": "Berlin",
+        "country": "Germany",
+        "population": 3520031,
+        "noisy_pollution_level": "Low",
+        "neighbourhood_cities": [
+            "Potsdam",
+            "Brandenburg",
+            "Oranienburg"
+        ]
+    },
+    {
+        "id": 36,
+        "name": "Madrid",
+        "country": "Spain",
+        "population": 3266126,
+        "noisy_pollution_level": "Low",
+        "neighbourhood_cities": [
+            "Toledo",
+            "Segovia",
+            "Salamanca"
+        ]
+    },
+    {
+        "id": 37,
+        "name": "Barcelona",
+        "country": "Spain",
+        "population": 1615446,
+        "noisy_pollution_level": "Low",
+        "neighbourhood_cities": [
+            "Tarragona",
+            "Girona",
+            "Lleida"
+        ]
+    },
+    {
+        "id": 38,
+        "name": "Rome",
+        "country": "Italy",
+        "population": 2872800,
+        "noisy_pollution_level": "Low",
+        "neighbourhood_cities": [
+            "Vatican City",
+            "Naples",
+            "Florence"
+        ]
+    },
+    {
+        "id": 39,
+        "name": "Milan",
+        "country": "Italy",
+        "population": 1399860,
+        "noisy_pollution_level": "Moderate",
+        "neighbourhood_cities": [
+            "Monza",
+            "Bergamo",
+            "Como"
+        ]
+    },
+    {
+        "id": 40,
+        "name": "Boston",
+        "country": "USA",
+        "population": 694583,
+        "noisy_pollution_level": "Moderate",
+        "neighbourhood_cities": [
+            "Cambridge",
+            "Worcester",
+            "Lowell"
+        ]
+    },
+    {
+        "id": 41,
+        "name": "San Francisco",
+        "country": "USA",
+        "population": 884363,
+        "noisy_pollution_level": "Moderate",
+        "neighbourhood_cities": [
+            "Oakland",
+            "San Jose",
+            "Berkeley"
+        ]
+    },
+    {
+        "id": 42,
+        "name": "Osaka",
+        "country": "Japan",
+        "population": 2681000,
+        "noisy_pollution_level": "High",
+        "neighbourhood_cities": [
+            "Kyoto",
+            "Kobe",
+            "Nara"
+        ]
+    },
+    {
+        "id": 43,
+        "name": "Kyoto",
+        "country": "Japan",
+        "population": 1474570,
+        "noisy_pollution_level": "Low",
+        "neighbourhood_cities": [
+            "Osaka",
+            "Nara",
+            "Kobe"
+        ]
+    },
+    {
+        "id": 44,
+        "name": "Nagoya",
+        "country": "Japan",
+        "population": 2263556,
+        "noisy_pollution_level": "Moderate",
+        "neighbourhood_cities": [
+            "Gifu",
+            "Toyota",
+            "Hamamatsu"
+        ]
+    },
+    {
+        "id": 45,
+        "name": "Fukuoka",
+        "country": "Japan",
+        "population": 1533111,
+        "noisy_pollution_level": "Moderate",
+        "neighbourhood_cities": [
+            "Kitakyushu",
+            "Kurume",
+            "Saga"
+        ]
+    },
+    {
+        "id": 46,
+        "name": "Okinawa",
+        "country": "Japan",
+        "population": 1455239,
+        "noisy_pollution_level": "Low",
+        "neighbourhood_cities": [
+            "Naha",
+            "Urasoe",
+            "Nago"
+        ]
+    },
+    {
+        "id": 47,
+        "name": "Oslo",
+        "country": "Norway",
+        "population": 673469,
+        "noisy_pollution_level": "Low",
+        "neighbourhood_cities": [
+            "Bergen",
+            "Trondheim",
+            "Stavanger"
+        ]
+    },
+    {
+        "id": 48,
+        "name": "Stockholm",
+        "country": "Sweden",
+        "population": 975904,
+        "noisy_pollution_level": "Low",
+        "neighbourhood_cities": [
+            "Gothenburg",
+            "Uppsala",
+            "Malmö"
+        ]
+    },
+    {
+        "id": 49,
+        "name": "Helsinki",
+        "country": "Finland",
+        "population": 655281,
+        "noisy_pollution_level": "Low",
+        "neighbourhood_cities": [
+            "Espoo",
+            "Vantaa",
+            "Tampere"
+        ]
+    },
+    {
+        "id": 50,
+        "name": "Copenhagen",
+        "country": "Denmark",
+        "population": 794128,
+        "noisy_pollution_level": "Low",
+        "neighbourhood_cities": [
+            "Malmö",
+            "Roskilde",
+            "Helsingborg"
+        ]
+    },
+    {
+        "id": 51,
+        "name": "Vienna",
+        "country": "Austria",
+        "population": 1765649,
+        "noisy_pollution_level": "Low",
+        "neighbourhood_cities": [
+            "Bratislava",
+            "Budapest",
+            "Prague"
+        ]
+    },
+    {
+        "id": 52,
+        "name": "Zurich",
+        "country": "Switzerland",
+        "population": 413215,
+        "noisy_pollution_level": "Low",
+        "neighbourhood_cities": [
+            "Geneva",
+            "Basel",
+            "Bern"
+        ]
+    },
+    {
+        "id": 53,
+        "name": "Geneva",
+        "country": "Switzerland",
+        "population": 201818,
+        "noisy_pollution_level": "Low",
+        "neighbourhood_cities": [
+            "Zurich",
+            "Lausanne",
+            "Bern"
+        ]
+    },
+    {
+        "id": 54,
+        "name": "Dublin",
+        "country": "Ireland",
+        "population": 554554,
+        "noisy_pollution_level": "Low",
+        "neighbourhood_cities": [
+            "Cork",
+            "Galway",
+            "Limerick"
+        ]
+    },
+    {
+        "id": 55,
+        "name": "Edinburgh",
+        "country": "Scotland",
+        "population": 482005,
+        "noisy_pollution_level": "Low",
+        "neighbourhood_cities": [
+            "Glasgow",
+            "Dundee",
+            "Stirling"
+        ]
+    },
+    {
+        "id": 56,
+        "name": "Glasgow",
+        "country": "Scotland",
+        "population": 615070,
+        "noisy_pollution_level": "Low",
+        "neighbourhood_cities": [
+            "Edinburgh",
+            "Dundee",
+            "Stirling"
+        ]
+    },
+    {
+        "id": 57,
+        "name": "Manchester",
+        "country": "England",
+        "population": 547627,
+        "noisy_pollution_level": "Low",
+        "neighbourhood_cities": [
+            "Liverpool",
+            "Leeds",
+            "Sheffield"
+        ]
+    },
+    {
+        "id": 58,
+        "name": "Birmingham",
+        "country": "England",
+        "population": 1141816,
+        "noisy_pollution_level": "Low",
+        "neighbourhood_cities": [
+            "Coventry",
+            "Leicester",
+            "Wolverhampton"
+        ]
+    },
+    {
+        "id": 59,
+        "name": "Liverpool",
+        "country": "England",
+        "population": 498042,
+        "noisy_pollution_level": "Low",
+        "neighbourhood_cities": [
+            "Manchester",
+            "Birmingham",
+            "Leeds"
+        ]
+    },
+    {
+        "id": 60,
+        "name": "Bristol",
+        "country": "England",
+        "population": 617280,
+        "noisy_pollution_level": "Low",
+        "neighbourhood_cities": [
+            "Bath",
+            "Gloucester",
+            "Cardiff"
+        ]
+    },
+    {
+        "id": 61,
+        "name": "Cardiff",
+        "country": "Wales",
+        "population": 447287,
+        "noisy_pollution_level": "Low",
+        "neighbourhood_cities": [
+            "Newport",
+            "Swansea",
+            "Bristol"
+        ]
+    },
+    {
+        "id": 62,
+        "name": "Belfast",
+        "country": "Northern Ireland",
+        "population": 340200,
+        "noisy_pollution_level": "Low",
+        "neighbourhood_cities": [
+            "Lisburn",
+            "Derry",
+            "Newry"
+        ]
+    },
+    {
+        "id": 63,
+        "name": "Amsterdam",
+        "country": "Netherlands",
+        "population": 873555,
+        "noisy_pollution_level": "Low",
+        "neighbourhood_cities": [
+            "Rotterdam",
+            "The Hague",
+            "Utrecht"
+        ]
+    },
+    {
+        "id": 64,
+        "name": "Rotterdam",
+        "country": "Netherlands",
+        "population": 644527,
+        "noisy_pollution_level": "Low",
+        "neighbourhood_cities": [
+            "Amsterdam",
+            "The Hague",
+            "Utrecht"
+        ]
+    },
+    {
+        "id": 65,
+        "name": "The Hague",
+        "country": "Netherlands",
+        "population": 539990,
+        "noisy_pollution_level": "Low",
+        "neighbourhood_cities": [
+            "Amsterdam",
+            "Rotterdam",
+            "Utrecht"
+        ]
+    },
+    {
+        "id": 66,
+        "name": "Utrecht",
+        "country": "Netherlands",
+        "population": 357179,
+        "noisy_pollution_level": "Low",
+        "neighbourhood_cities": [
+            "Amsterdam",
+            "Rotterdam",
+            "The Hague"
+        ]
+    },
+    {
+        "id": 67,
+        "name": "Vienna",
+        "country": "Austria",
+        "population": 1765649,
+        "noisy_pollution_level": "Low",
+        "neighbourhood_cities": [
+            "Bratislava",
+            "Budapest",
+            "Prague"
+        ]
+    },
+    {
+        "id": 68,
+        "name": "Zurich",
+        "country": "Switzerland",
+        "population": 413215,
+        "noisy_pollution_level": "Low",
+        "neighbourhood_cities": [
+            "Geneva",
+            "Basel",
+            "Bern"
+        ]
+    },
+    {
+        "id": 69,
+        "name": "Geneva",
+        "country": "Switzerland",
+        "population": 201818,
+        "noisy_pollution_level": "Low",
+        "neighbourhood_cities": [
+            "Zurich",
+            "Lausanne",
+            "Bern"
+        ]
+    },
+    {
+        "id": 70,
+        "name": "Dublin",
+        "country": "Ireland",
+        "population": 554554,
+        "noisy_pollution_level": "Low",
+        "neighbourhood_cities": [
+            "Cork",
+            "Galway",
+            "Limerick"
+        ]
+    },
+    {
+        "id": 71,
+        "name": "Edinburgh",
+        "country": "Scotland",
+        "population": 482005,
+        "noisy_pollution_level": "Low",
+        "neighbourhood_cities": [
+            "Glasgow",
+            "Dundee",
+            "Stirling"
+        ]
+    },
+    {
+        "id": 72,
+        "name": "Glasgow",
+        "country": "Scotland",
+        "population": 615070,
+        "noisy_pollution_level": "Low",
+        "neighbourhood_cities": [
+            "Edinburgh",
+            "Dundee",
+            "Stirling"
+        ]
+    },
+    {
+        "id": 73,
+        "name": "Manchester",
+        "country": "England",
+        "population": 547627,
+        "noisy_pollution_level": "Low",
+        "neighbourhood_cities": [
+            "Liverpool",
+            "Leeds",
+            "Sheffield"
+        ]
+    },
+    {
+        "id": 74,
+        "name": "Birmingham",
+        "country": "England",
+        "population": 1141816,
+        "noisy_pollution_level": "Low",
+        "neighbourhood_cities": [
+            "Coventry",
+            "Leicester",
+            "Wolverhampton"
+        ]
+    },
+    {
+        "id": 75,
+        "name": "Liverpool",
+        "country": "England",
+        "population": 498042,
+        "noisy_pollution_level": "Low",
+        "neighbourhood_cities": [
+            "Manchester",
+            "Birmingham",
+            "Leeds"
+        ]
+    },
+    {
+        "id": 76,
+        "name": "Bristol",
+        "country": "England",
+        "population": 617280,
+        "noisy_pollution_level": "Low",
+        "neighbourhood_cities": [
+            "Bath",
+            "Gloucester",
+            "Cardiff"
+        ]
+    },
+    {
+        "id": 77,
+        "name": "Cardiff",
+        "country": "Wales",
+        "population": 447287,
+        "noisy_pollution_level": "Low",
+        "neighbourhood_cities": [
+            "Newport",
+            "Swansea",
+            "Bristol"
+        ]
+    },
+    {
+        "id": 78,
+        "name": "Belfast",
+        "country": "Northern Ireland",
+        "population": 340200,
+        "noisy_pollution_level": "Low",
+        "neighbourhood_cities": [
+            "Lisburn",
+            "Derry",
+            "Newry"
+        ]
+    },
+    {
+        "id": 79,
+        "name": "Amsterdam",
+        "country": "Netherlands",
+        "population": 873555,
+        "noisy_pollution_level": "Low",
+        "neighbourhood_cities": [
+            "Rotterdam",
+            "The Hague",
+            "Utrecht"
+        ]
+    },
+    {
+        "id": 80,
+        "name": "Rotterdam",
+        "country": "Netherlands",
+        "population": 644527,
+        "noisy_pollution_level": "Low",
+        "neighbourhood_cities": [
+            "Amsterdam",
+            "The Hague",
+            "Utrecht"
+        ]
+    },
+    {
+        "id": 81,
+        "name": "The Hague",
+        "country": "Netherlands",
+        "population": 539990,
+        "noisy_pollution_level": "Low",
+        "neighbourhood_cities": [
+            "Amsterdam",
+            "Rotterdam",
+            "Utrecht"
+        ]
+    },
+    {
+        "id": 82,
+        "name": "Utrecht",
+        "country": "Netherlands",
+        "population": 357179,
+        "noisy_pollution_level": "Low",
+        "neighbourhood_cities": [
+            "Amsterdam",
+            "Rotterdam",
+            "The Hague"
+        ]
+    },
+    {
+        "id": 83,
+        "name": "Brussels",
+        "country": "Belgium",
+        "population": 1211035,
+        "noisy_pollution_level": "Low",
+        "neighbourhood_cities": ["Antwerp", "Ghent", "Bruges"]
+    },
+    {
+        "id": 84,
+        "name": "Antwerp",
+        "country": "Belgium",
+        "population": 525935,
+        "noisy_pollution_level": "Low",
+        "neighbourhood_cities": ["Brussels", "Ghent", "Mechelen"]
+    },
+    {
+        "id": 85,
+        "name": "Ghent",
+        "country": "Belgium",
+        "population": 262219,
+        "noisy_pollution_level": "Low",
+        "neighbourhood_cities": ["Brussels", "Antwerp", "Bruges"]
+    },
+    {
+        "id": 86,
+        "name": "Bruges",
+        "country": "Belgium",
+        "population": 118325,
+        "noisy_pollution_level": "Low",
+        "neighbourhood_cities": ["Brussels", "Ghent", "Kortrijk"]
+    },
+    {
+        "id": 87,
+        "name": "Hamburg",
+        "country": "Germany",
+        "population": 1841179,
+        "noisy_pollution_level": "Low",
+        "neighbourhood_cities": ["Berlin", "Bremen", "Hanover"]
+    },
+    {
+        "id": 88,
+        "name": "Munich",
+        "country": "Germany",
+        "population": 1471508,
+        "noisy_pollution_level": "Low",
+        "neighbourhood_cities": ["Nuremberg", "Augsburg", "Ingolstadt"]
+    },
+    {
+        "id": 89,
+        "name": "Frankfurt",
+        "country": "Germany",
+        "population": 753056,
+        "noisy_pollution_level": "Low",
+        "neighbourhood_cities": ["Mainz", "Wiesbaden", "Darmstadt"]
+    },
+    {
+        "id": 90,
+        "name": "Cologne",
+        "country": "Germany",
+        "population": 1085664,
+        "noisy_pollution_level": "Low",
+        "neighbourhood_cities": ["Düsseldorf", "Dortmund", "Essen"]
+    },
+    {
+        "id": 91,
+        "name": "Stuttgart",
+        "country": "Germany",
+        "population": 634830,
+        "noisy_pollution_level": "Low",
+        "neighbourhood_cities": ["Karlsruhe", "Mannheim", "Heidelberg"]
+    },
+    {
+        "id": 92,
+        "name": "Dresden",
+        "country": "Germany",
+        "population": 554649,
+        "noisy_pollution_level": "Low",
+        "neighbourhood_cities": ["Leipzig", "Chemnitz", "Zwickau"]
+    },
+    {
+        "id": 93,
+        "name": "Leipzig",
+        "country": "Germany",
+        "population": 593145,
+        "noisy_pollution_level": "Low",
+        "neighbourhood_cities": ["Dresden", "Halle", "Magdeburg"]
+    },
+    {
+        "id": 94,
+        "name": "Düsseldorf",
+        "country": "Germany",
+        "population": 619294,
+        "noisy_pollution_level": "Low",
+        "neighbourhood_cities": ["Cologne", "Dortmund", "Essen"]
+    },
+    {
+        "id": 95,
+        "name": "Nuremberg",
+        "country": "Germany",
+        "population": 518365,
+        "noisy_pollution_level": "Low",
+        "neighbourhood_cities": ["Munich", "Augsburg", "Regensburg"]
+    },
+    {
+        "id": 96,
+        "name": "Bremen",
+        "country": "Germany",
+        "population": 569352,
+        "noisy_pollution_level": "Low",
+        "neighbourhood_cities": ["Hamburg", "Hanover", "Bremerhaven"]
+    },
+    {
+        "id": 97,
+        "name": "Hanover",
+        "country": "Germany",
+        "population": 536925,
+        "noisy_pollution_level": "Low",
+        "neighbourhood_cities": ["Hamburg", "Bremen", "Braunschweig"]
+    },
+    {
+        "id": 98,
+        "name": "Bologna",
+        "country": "Italy",
+        "population": 390009,
+        "noisy_pollution_level": "Low",
+        "neighbourhood_cities": ["Modena", "Ferrara", "Ravenna"]
+    },
+    {
+        "id": 99,
+        "name": "Florence",
+        "country": "Italy",
+        "population": 383083,
+        "noisy_pollution_level": "Low",
+        "neighbourhood_cities": ["Prato", "Livorno", "Pisa"]
+    },
+    {
+        "id": 100,
+        "name": "Venice",
+        "country": "Italy",
+        "population": 260897,
+        "noisy_pollution_level": "Low",
+        "neighbourhood_cities": ["Padua", "Verona", "Trieste"]
+    }
+]
